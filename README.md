@@ -7,5 +7,7 @@
 
 # Придобити умения
 
+- Работа с конзолата (вход и изход на данни)
+
 ![162507](https://github.com/BrayanMark/SoftUni-Javascript-Basics/assets/145554659/04315aee-8069-484a-9f2f-aebaf071d80b)
 
