@@ -14,5 +14,6 @@
 - Извършване на прости пресмятания
 - Работа с по-сложни цикли (вложени for цикли и while)
   
-![162507](https://github.com/BrayanMark/SoftUni-Javascript-Basics/assets/145554659/04315aee-8069-484a-9f2f-aebaf071d80b)
+![Programming Basics - January 2023 - Certificate](https://github.com/BrayanMark/SoftUni-Javascript-Basics/assets/145554659/b8a31261-d10d-409a-969d-197ac1503d6e)
+
 
